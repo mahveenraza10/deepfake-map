@@ -394,7 +394,7 @@ export default function App() {
 
           <ImagePanel
             title="Figure 1: Pathways of Deepfake Incidents (Sankey Diagram)"
-            src="./sankey.png"
+            src="./sankey2.png"
             alt="Sankey diagram showing flows from category through delivery channel to detection outcome"
           />
 
